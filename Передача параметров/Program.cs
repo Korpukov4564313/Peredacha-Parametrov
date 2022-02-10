@@ -2,11 +2,14 @@
 
 namespace Передача_параметров
 {
-    class Program
+    class MyHello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!привет");
+            Console.WriteLine("myhello");
+            string name;
+            name = Console.ReadLine();
+            Console.WriteLine($"Привет, {name}");
         }
     }
 }
