@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Передача_параметров
+namespace Task2
 {
     class MyHello
     {

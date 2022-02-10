@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Передача_параметров_2
+namespace Task1
 {
     class Program
     {
