@@ -2,7 +2,7 @@
 
 namespace Task1
 {
-    class Program
+    class MySum
     {
         static void Main(string[] args)
         {
