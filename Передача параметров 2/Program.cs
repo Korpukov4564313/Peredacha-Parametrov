@@ -6,7 +6,10 @@ namespace Передача_параметров_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine(args.Length);
+            int a = Convert.ToInt32(args[0]);
+            int b = Convert.ToInt32(args[1]);
+            Console.WriteLine(a + b);
         }
     }
 }
