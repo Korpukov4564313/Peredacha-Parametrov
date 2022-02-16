@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task2", "Передача �
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySum", "Передача параметров 2\MySum.csproj", "{3ED4F075-7ACF-4E04-B671-00625C9F16CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{1C6C94EE-914E-4BCC-BC2F-A8EA59DB4C46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task3", "Task3\Task3.csproj", "{1C6C94EE-914E-4BCC-BC2F-A8EA59DB4C46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Массив", "Task4\Массив.csproj", "{909D24D0-C9C6-456A-81ED-C0A00118893F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{1C6C94EE-914E-4BCC-BC2F-A8EA59DB4C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C6C94EE-914E-4BCC-BC2F-A8EA59DB4C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C6C94EE-914E-4BCC-BC2F-A8EA59DB4C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{909D24D0-C9C6-456A-81ED-C0A00118893F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909D24D0-C9C6-456A-81ED-C0A00118893F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909D24D0-C9C6-456A-81ED-C0A00118893F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909D24D0-C9C6-456A-81ED-C0A00118893F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
