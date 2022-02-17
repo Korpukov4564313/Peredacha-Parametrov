@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task3", "Task3\Task3.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Массив", "Task4\Массив.csproj", "{909D24D0-C9C6-456A-81ED-C0A00118893F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Создание класса.Применение коллекций", "Создание класса.Применение коллекций\Создание класса.Применение коллекций.csproj", "{83F9A0BA-8951-454D-9A3E-48BA8A460243}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Создание класса.Применение коллекций", "Создание класса.Применение коллекций\Создание класса.Применение коллекций.csproj", "{83F9A0BA-8951-454D-9A3E-48BA8A460243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Создание класса. Поля и методы. Конструкторы", "Создание класса. Поля и методы. Конструкторы\Создание класса. Поля и методы. Конструкторы.csproj", "{0B14AD10-3650-406E-95C9-2C6D11D0BCF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{83F9A0BA-8951-454D-9A3E-48BA8A460243}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83F9A0BA-8951-454D-9A3E-48BA8A460243}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83F9A0BA-8951-454D-9A3E-48BA8A460243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B14AD10-3650-406E-95C9-2C6D11D0BCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B14AD10-3650-406E-95C9-2C6D11D0BCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B14AD10-3650-406E-95C9-2C6D11D0BCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B14AD10-3650-406E-95C9-2C6D11D0BCF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
